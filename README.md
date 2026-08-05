@@ -1,4 +1,3 @@
-# Commutative Quaternion Polynomial Optimization
 
 # Commutative Quaternion Polynomial Optimization
 
